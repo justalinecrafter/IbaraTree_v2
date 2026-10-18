@@ -652,9 +652,7 @@ input[type="color"] { height: 40px; padding: 3px; }
 
 .weekday-label { font-size: 13px; font-weight: 700; }
 
-\#holiday-color { width: 54px; flex: 0 0 54px; }
-
-.subject-name-row {
+\.subject-name-row {
 
   display: grid;
 

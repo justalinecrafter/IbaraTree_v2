@@ -1532,6 +1532,13 @@ input[type="color"] { height: 40px; padding: 3px; }
 
   text-align: center;
 
+  /* タップで更新履歴サイトを開くリンクだが、見た目は通常のカードのままにする */
+  display: block;
+
+  color: inherit;
+
+  text-decoration: none;
+
 }
 
 #view-settings {
